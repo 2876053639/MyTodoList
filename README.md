@@ -16,7 +16,8 @@ npm run build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Vue+nodejs
+以上只是vue源码
 
 ### 网站展示路径（Show the path）:
 39.106.66.132
