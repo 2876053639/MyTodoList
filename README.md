@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 网站展示路径（Show the path）:
-[MyTodoList]39.106.66.132
+[MyTodoList](39.106.66.132/login)
