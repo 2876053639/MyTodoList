@@ -21,5 +21,5 @@ Vue+nodejs
 nodejs源码：https://github.com/2876053639/MyTodoList-node-.git
 
 ### 网站展示路径（Show the path）:
-39.106.66.132:81
+http://39.106.66.132:81
 ## (复制网址在新页面打开啊！没有放到GitHub pages里)
